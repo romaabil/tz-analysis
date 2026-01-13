@@ -11,7 +11,7 @@
         "icon_url": "https://cdn.petrushka.ru/partners/metro_logo.png",
         "highlight": "nearest",
         "metadata": {
-          "partner_since": "2023-01-15",
+          "partner_since": "2026-01-15",
           "rating": 4.8,
           "delivery_zones": ["Центр", "САО", "СЗАО"]
         }
@@ -24,7 +24,7 @@
         "external_link": "https://auchan.petrushka.ru/redirect?partner_id=2",
         "icon_url": "https://cdn.petrushka.ru/partners/auchan_logo.png",
         "metadata": {
-          "partner_since": "2022-11-30",
+          "partner_since": "2025-11-30",
           "rating": 4.5,
           "delivery_zones": ["Все районы Москвы"]
         }
@@ -36,7 +36,7 @@
     "total": 5,
     "page": 1,
     "has_more": true,
-    "updated_at": "2024-10-28T09:41:00Z",
+    "updated_at": "2025-10-28T09:41:00Z",
     "city": "Москва",
     "default_sort": "delivery_time"
   }
