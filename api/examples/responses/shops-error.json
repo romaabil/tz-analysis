@@ -1,0 +1,23 @@
+{
+  "status": "error",
+  "error": {
+    "code": "VALIDATION_ERROR",
+    "message": "Неверные параметры запроса",
+    "details": {
+      "invalid_fields": [
+        {
+          "field": "user_lat",
+          "reason": "Значение должно быть числом",
+          "received": "не число"
+        }
+      ]
+    },
+    "request_id": "req_7f8e9d2a1b3c",
+    "documentation_url": "https://docs.petrushka.ru/api/errors#validation-error"
+  },
+  "meta": {
+    "timestamp": "2025-10-28T09:41:00Z",
+    "api_version": "1.0.0",
+    "deprecation_warning": "Эта версия API устареет 2026-01-01"
+  }
+}
